@@ -1,0 +1,13 @@
+zomato:
+  outputs:
+    dev:
+      account: XTOKQUS-QU65419
+      database: ZOMATO
+      password: Nalini@14052003
+      role: DBT_ROLE
+      schema: STAGING
+      threads: 8
+      type: snowflake
+      user: PUSHKARAJ14
+      warehouse: ZOMATO_WH
+  target: dev
